@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20MUHAMMET%20ALİ%20SONGUR%20👨‍💻&text2=%20I%20💖%20Codeing&width=1300&height=300)
+![Muhammet Ali Songur](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20MUHAMMET%20ALİ%20SONGUR%20&text2=%20I%20💖%20Codeing&width=1300&height=300)
 
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
